@@ -1,0 +1,6 @@
+D:\Soham\DAL\bin\Debug\DAL.dll
+D:\Soham\DAL\bin\Debug\DAL.pdb
+D:\Soham\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Soham\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Soham\DAL\obj\Debug\DAL.dll
+D:\Soham\DAL\obj\Debug\DAL.pdb
